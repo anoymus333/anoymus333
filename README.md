@@ -1,5 +1,5 @@
 # 💫 About Me:
-pursuing to  become full stack developer<br>Currently working on E-commerce Website.<br>Learning React , SQL .<br><br>
+pursuing to become full stack developer<br>Currently working on E-commerce Website.<br><br>
 
 
 ## 🌐 Socials:
